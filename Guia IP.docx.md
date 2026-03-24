@@ -77,7 +77,7 @@ Estos protocolos automatizan la gestión manual de números IP.
 3. El DNS devuelve la IP correspondiente.  
 4. El navegador se conecta a esa IP y el servidor entrega la web.
 
-![][image1]
+<img width="907" height="55" alt="image" src="https://github.com/user-attachments/assets/4aacea22-e8f5-4967-8886-882fdbdbf47d" />
 
 ## **🌟 6\. Infraestructura Avanzada**
 
